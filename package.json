@@ -1,0 +1,19 @@
+{
+  "name": "glc-splash",
+  "version": "1.0.0",
+  "description": "Static express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/fordglc/glc-splash.git"
+  },
+  "author": "Ford",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/fordglc/glc-splash#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
