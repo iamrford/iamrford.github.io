@@ -34,7 +34,7 @@ body{
 }
 
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
-	color: #C5A16A;
+	color: #2A2A2A;
 	font-weight: 700;
 	font-family: 'Roboto Condensed', sans-serif;
 }
@@ -86,7 +86,7 @@ header h1,
 .payoff h1,
 .details .carousel,
 .social a:hover{
-	color: #C5A16A;
+	color: #2A2A2A;
 }
 
 .features p{
@@ -96,7 +96,7 @@ header h1,
 /*---- Background ----*/
 .features,
 .detail .carousel-indicators .active {
-	background: #C5A16A;	
+	background: #2A2A2A;	
 }
 	
 
